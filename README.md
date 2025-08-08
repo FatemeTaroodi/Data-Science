@@ -34,5 +34,3 @@ Each project is organized into its own folder and includes:
 
 
 
-### Example Structure:
-
