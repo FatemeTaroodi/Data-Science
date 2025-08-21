@@ -50,7 +50,13 @@ Each project consists of:
 - 📄 `project04.pdf`, `Theoretical_Report.pdf`, `Practical_Report.pdf`
 
 ---
+05. Insurance Policy Cost Prediction
+📌 InsurancePolicyCostPrediction.ipynb
+💰 Builds a regression model to predict insurance policy costs using anonymized customer and policy-related features
+📊 Techniques include Linear Regression, Support Vector Regression, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), feature engineering, and model interpretation (SHAP, permutation importance)
+📄 Practical_Report.pdf, Theoretical_Report.pdf, project05.pdf
 
+---
 ###  Bonus: Amazon Sales Analysis
 -  `AmazonSalesAnalysis.ipynb`
 -  EDA and time series trends on Amazon retail data
