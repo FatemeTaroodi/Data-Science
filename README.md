@@ -2,7 +2,7 @@
 
 > A collection of theoretical and practical projects from the **Data Science** course at Shahid Beheshti University, taught by **Dr. Khordpisheh**, Spring 2025.
 
-This repository includes 6 main assignments combining theoretical questions, exploratory data analysis, machine learning models, and real-world datasets. The goal is to build hands-on skills while understanding core concepts such as clustering, classification, and feature engineering.
+This repository includes 5 main assignments combining theoretical questions, exploratory data analysis, machine learning models, and real-world datasets. The goal is to build hands-on skills while understanding core concepts such as clustering, classification, and feature engineering.
 
 ---
 
